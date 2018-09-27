@@ -1,12 +1,9 @@
 
-#include <stdio.h>
+#include <stdio.h> //global declaration
 
-int main()
+int main() //local declaration
 {
-	
-	
-	
-	printf("ABHI-MX");
+	printf("ABHI-MX"); //print the name 
 	
 	return 0;
 }
